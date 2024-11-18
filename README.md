@@ -6,9 +6,9 @@ This project is centered on predicting the product ratings of Wish.com products 
 
 **Competition Link:** https://www.kaggle.com/competitions/cisc-873-dm-w24-a1
 
-* **The inputs:**  features of the products on website like price, retail_price ,urgency_text, various feature of merchant like rate and others.
+**The inputs:**  features of the products on website like price, retail_price ,urgency_text, various feature of merchant like rate and others.
 
-* **The output:** The predicted product rating, which is in categories from 1 to 5.
+**The output:** The predicted product rating, which is in categories from 1 to 5.
 
 **The data mining function:** classification.
 
