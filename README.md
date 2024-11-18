@@ -1,10 +1,10 @@
 # Wish.com-Product-Rating-Prediction
 
-**Competition Link:** https://www.kaggle.com/competitions/cisc-873-dm-w24-a1
-
 ## **Project Overview**
 
 This project is centered on predicting the product ratings of Wish.com products based on the other features known for a product on website.
+
+**Competition Link:** https://www.kaggle.com/competitions/cisc-873-dm-w24-a1
 
 * **The inputs:**  features of the products on website like price, retail_price ,urgency_text, various feature of merchant like rate and others.
 
